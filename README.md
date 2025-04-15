@@ -44,9 +44,4 @@ The dataset used in this project is `heart_disease.csv` and contains the followi
 - Scikit-learn
 - Matplotlib (for visualization)
 
-
-### Key Updates:
-- Added a section with your **LinkedIn profile** to help people connect with you.
-- Retained the original content with some minor formatting improvements for readability.
-
-Let me know if you need further adjustments!
+### linkedin profile link:- www.linkedin.com/in/s-berlin-samvel-pandian007
