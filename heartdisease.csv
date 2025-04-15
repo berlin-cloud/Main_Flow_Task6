@@ -1,0 +1,6 @@
+Age,Gender,Cholesterol,Blood Pressure,Heart Disease
+45,Male,220,120/80,1
+50,Female,230,130/85,0
+60,Male,210,140/90,1
+40,Female,240,125/80,0
+55,Male,250,135/85,1
